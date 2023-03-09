@@ -1,5 +1,5 @@
-### I'm iPig
+### Something about me
 I love to code
-### Programming Languages i know
-Lua
-Python
+I know python and lua
+I'm a guy
+I have a girlfriend
