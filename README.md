@@ -1,5 +1,5 @@
-### Something about me
-I love to code  
-I know python and lua  
-I'm a guy  
-I have a girlfriend  
+### iPig
+I'm a programmer from Taiwan   
+### Programming Languages
+Python   
+Lua
