@@ -10,6 +10,6 @@
   
 ---
 
-<h4 align="center"> Github Stats</h4>
-<h1 align="center">
-![iPig's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipigtw&show_icons=true&theme=dark)</h1>
+<h4 align="center"> Github Stats </h4>
+<div align="center">
+![iPig's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipigtw&show_icons=true&theme=dark)</div>
