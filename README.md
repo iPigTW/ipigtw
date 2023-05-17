@@ -4,7 +4,7 @@
 ---
 
 <h4 align="center"> My skills </h4>
-<p align="center"><img src="https://skillicons.dev/icons?i=js,py,react,lua,vscode,discord" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=js,py,react,lua,discord,netlify,flask" /></p>
   
 ---
 
