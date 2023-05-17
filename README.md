@@ -3,8 +3,8 @@
 
 ---
 
-<h4 align="center"> Programming Languages I know </h4>
-<p align="center"><img src="https://skillicons.dev/icons?i=js,py)](https://skillicons.dev)" /></p>
+<h4 align="center"> My skills </h4>
+<p align="center"><img src="https://skillicons.dev/icons?i=js,py,react,lua,vscode,discord" /></p>
   
 ---
 
