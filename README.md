@@ -4,9 +4,7 @@
 ---
 
 <h4 align="center"> Programming Languages I know </h4>
-<p align="center"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40" height="40"/>
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="40" height="40"/>
-</p>
+<p align="center">[![My Skills](https://skillicons.dev/icons?i=js,py)](https://skillicons.dev)</p>
   
 ---
 
