@@ -4,10 +4,10 @@
 ---
 
 <h4 align="center"> Programming Languages I know </h4>
-<p align="center">![My Skills](https://skillicons.dev/icons?i=js,py)](https://skillicons.dev)</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=js,py)](https://skillicons.dev)" /></p>
   
 ---
 
-<h4 align="center"> Github Stats   
+<h4 align="center"> Github Stats </h4>
 
-![iPig's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipigtw&show_icons=true&theme=dark)</h4>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ipigtw&show_icons=true&theme=dark" /></p>
