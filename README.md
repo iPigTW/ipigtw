@@ -5,7 +5,12 @@
 
 <h4 align="center"> My skills </h4>
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,py,react,lua,flask" /></p>
-  
+ 
+---
+
+<h4 align="center">Recent Projects</h4>
+<p align="center">[Discord Bot](https://github.com/ipigtw/discord-bot-js)</p>
+
 ---
 
 <h4 align="center"> Github Stats </h4>
