@@ -6,7 +6,7 @@
 
 #### My Skills
 
-![Skills](https://skillicons.dev/icons?i=py,go,java,cpp,kotlin)
+![Skills](https://skillicons.dev/icons?i=py,go,java,cpp,kotlin,react)
  
 ---
 
