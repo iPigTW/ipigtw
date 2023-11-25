@@ -1,5 +1,5 @@
-<h1 align="center"> Yo! I'm iPig </h1>
-<h3 align="center">I'm a 15 years old programmer from Taiwan 🇹🇼</h3>   
+<h1 align="center">Hi</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+I'm+iPig!)](https://git.io/typing-svg) 
 
 ---
 
