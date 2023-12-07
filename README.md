@@ -12,7 +12,7 @@
 
 #### Recent Projects
 
-[Steam Tax Calculator](https://github.com/ipigtw/steam-tax-calculator)
+[Steam Tax Calculator](https://github.com/ipigtw/steam-tax-calculator)   
 [Zhuyin Translator](https://github.com/iPigTW/zhuyintranslator)
 
 ---
