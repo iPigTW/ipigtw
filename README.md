@@ -12,10 +12,7 @@
 
 #### Recent Projects
 
-[Pig Bank](https://github.com/ipigtw/pigbank)   
-[Steam Tax Calculator](https://github.com/ipigtw/steam-tax-calculator)   
-[Zhuyin Translator](https://github.com/iPigTW/zhuyintranslator)   
-[Troll](https://github.com/iPigTW/troll)
+[Nuker0328](https://github.com/ipigtw/nuker0328)
 
 ---
 
