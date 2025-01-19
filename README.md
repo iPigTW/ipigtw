@@ -18,6 +18,5 @@
 
 ---
 
-#### Github Status
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ipigtw&show_icons=true&theme=dark)
+![snake gif](https://github.com/ipigtw/ipigtw/blob/output/github-snake-dark.svg)
