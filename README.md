@@ -6,13 +6,15 @@ My name's iPig. I'm a 13 years old self-taught programmer from Taiwan.
 <img src="https://svgl-badge.vercel.app/api/Language/Java?theme=dark"/>
 <img src="https://svgl-badge.vercel.app/api/Language/Kotlin?theme=dark"/>
 <img src="https://svgl-badge.vercel.app/api/Language/Python?theme=dark"/>
+<img src="https://svgl-badge.vercel.app/api/Language/lua?theme=dark"/>
 </div>
 
 ---
 
 ## 🕑 Recent Projects
 
-[Nuker0328](https://github.com/ipigtw/nuker0328)
+[MyGO!!!梗圖查詢器](https://github.com/ipigtw/chunriyingv2)
+[PigHub 2](https://script.ipig.me/pighubv2)
 
 ---
 
