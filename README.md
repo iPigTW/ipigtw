@@ -1,7 +1,5 @@
 # Hello World!
 
----
-
 #### Skills
 <div>
 <img src="https://svgl-badge.vercel.app/api/Language/C%23?theme=dark"/>
