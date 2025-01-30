@@ -11,9 +11,15 @@ My name's iPig. I'm a 13 years old self-taught programmer from Taiwan.
 
 ---
 
+## 🔧 Currently Working On
+
+[MyGO!!!!!災難公關](https://github.com/redths-gay-club/mygo-kitchen)
+
+---
+
 ## 🕑 Recent Projects
 
-[MyGO!!!梗圖查詢器](https://github.com/ipigtw/chunriyingv2)   
+[MyGO!!!!!梗圖查詢器](https://github.com/ipigtw/chunriyingv2)   
 [PigHub 2](https://script.ipig.me/pighubv2)
 
 ---
