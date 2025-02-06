@@ -8,7 +8,7 @@ My name's iPig. I'm a 13 years old self-taught programmer from Taiwan.
 <img src="https://svgl-badge.vercel.app/api/Language/Python?theme=dark"/>
 <img src="https://svgl-badge.vercel.app/api/Language/Lua?theme=dark"/>
 <img src="https://svgl-badge.vercel.app/api/Language/Rust?theme=dark"/>
-<img src="https://svgl-badge.vercel.app/api/Language/JavaScript?theme=dark"/>
+<img src="https://svgl-badge.vercel.app/api/Language/TypeScript?theme=dark"/>
 </div>
 
 ---
