@@ -1,5 +1,5 @@
 # 👋 Hello World!
-My name's iPig. I'm a 13 years old self-taught programmer from Taiwan. 
+My name's iPig. I'm a 14 years old self-taught programmer from Taiwan. 
 ## ⚡ Skills
 <div>
 <img src="https://svgl-badge.vercel.app/api/Language/C%23?theme=dark"/>
